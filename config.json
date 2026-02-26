@@ -1,0 +1,19 @@
+{
+    "start": "15.444948,101.515883",
+    "end": "",
+    "speed": "80",
+    "hz": "1",
+    "log_sec": "1",
+    "base_date": "09/01/2026",
+    "base_clock": "08.35",
+    "base_time": "09/01/2026 08.35",
+    "time_mode": "machine",
+    "sat_total": "0",
+    "serial_port": "No Ports",
+    "serial_baud": "115200",
+    "send_gngns": true,
+    "send_gprmc": true,
+    "send_gnrmc": true,
+    "send_gpgga": true,
+    "send_gpsacp": true
+}

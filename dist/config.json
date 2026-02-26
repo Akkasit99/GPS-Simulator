@@ -1,0 +1,19 @@
+{
+    "start": "14.519120,100.509567",
+    "end": "",
+    "speed": "60",
+    "hz": "1",
+    "log_sec": "1",
+    "base_date": "",
+    "base_clock": "",
+    "base_time": "",
+    "time_mode": "machine",
+    "sat_total": "8",
+    "serial_port": "No Ports",
+    "serial_baud": "115200",
+    "send_gngns": true,
+    "send_gprmc": true,
+    "send_gnrmc": true,
+    "send_gpgga": true,
+    "send_gpsacp": true
+}
